@@ -1,12 +1,13 @@
-React Weather App🌤🌤
-This is a sample react weather app.
+**React Weather App🌤🌤**
+This is a react weather app.
 
-
-
-Instructions
+**Instructions**
 
 
 First clone this repository.
+https://github.com/dhairyarajbabbar/React-Weather-App.git
+
+Install dependencies
 $ npm install # or yarn
 
 
