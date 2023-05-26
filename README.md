@@ -1,5 +1,10 @@
 **React Weather App🌤🌤**
 This is a react weather app.
+It gives the Current weather details of the entered city or the ZIP Code of the city;
+It also has auto-complete feature for the city name;
+
+
+LIVE DEMO:  https://weather-app-react-openweather-data.netlify.app/
 
 **Instructions**
 
